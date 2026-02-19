@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DevTeam Landing Page
 
 หน้าเว็บสำหรับบริการรับทำเว็บไซต์
@@ -98,7 +97,3 @@ git push -u origin main
 ## 📄 License
 
 MIT
-=======
-# devteam-landing
-Landing page for DevTeam web services
->>>>>>> 116321edcf7c9dd43cc007d98efd08de66299854
